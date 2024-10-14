@@ -13,7 +13,7 @@
  <a href="mailto:kimjoshuaolit@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
- <a href="kimjoshuaolit@protonmail.com">
+ <a href="mailto:kimjoshuaolit@protonmail.com">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
  </a>
  <a href="https://discord.com/users/:1064848522932920331">
